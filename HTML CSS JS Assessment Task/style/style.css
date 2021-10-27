@@ -1,0 +1,32 @@
+
+span.welcome{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+.pink-background{
+    background-color: pink;
+    margin-left: 1rem;
+    font-weight: bolder;
+}
+.form-text{
+    margin-left: 0;
+}
+.high{
+    background-color: red!important;
+    border:red!important;
+    color: #eee!important;
+}
+.low{
+    background-color: lightgreen!important;
+    border: lightgreen!important;
+    color: #eee!important;
+}
+.medium{
+    background-color:rgb(243, 143, 28)!important;
+    border:rgb(243, 143, 28)!important;
+    
+}
+
+
+
